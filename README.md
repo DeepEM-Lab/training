@@ -2,6 +2,9 @@
 
 #### 1. Clone this repository ####
 > $ git clone https://github.com/DeepEM-Lab/training.git
+* You should see a new folder is being downloaded.
+> $ cd training
+* Nevigate to the training folder.
 
 #### 2. Create and checkout a new branch ####
 > $ git checkout -b [breanch name]
@@ -24,7 +27,7 @@
 * You should see your most recent commit messages.
 
 #### 8. Push your files to the origin/remote ####
-> $ git push --set-upstream origin main
+> $ git push --set-upstream origin [branch name]
 
 #### 9. Create a pull request on GitHub website ####
 * Click "Pull Request" on the GitHub website
@@ -34,3 +37,8 @@
 * Create the branch
 
 #### 10. Take a long break! everything is all set! ####
+
+* Picture 1
+![alt text](demo1.png "Demo 1 picture")
+* Picture 2
+![alt text](demo2.png "Demo 2 Picture")
