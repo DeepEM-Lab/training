@@ -30,11 +30,12 @@
 > $ git push --set-upstream origin [branch name]
 
 #### 9. Create a pull request on GitHub website ####
-* Click "Pull Request" on the GitHub website
-* click "Create New" on the top right
+* Click "Pull Requests" on the GitHub website
+* click "New Pull Request" on the top right
 * Set the base branch to "main", set the compare branch to the branch you created.
+* click "Create Pull Request" on the top right
 * Fill in appropriate titles and messages.
-* Create the branch
+* Create the pull request!
 
 #### 10. Take a long break! everything is all set! ####
 
